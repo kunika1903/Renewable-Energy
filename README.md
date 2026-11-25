@@ -1,9 +1,9 @@
 
-# 🌱 Renewable Energy Performance Analytics
+#  Renewable Energy Performance Analytics
 
 ### Data Analyst Project | Python • MySQL • Power BI • Streamlit
 
-## 📌 Project Overview
+##  Project Overview
 
 Renewable Energy Performance Analytics is a data analytics project designed to analyze the performance of renewable energy plants using **Solar, Wind, and Hydro energy data**.
 
@@ -11,7 +11,7 @@ The project focuses on understanding energy generation, plant efficiency, capaci
 
 Using Python, MySQL, Power BI, and Streamlit, the project transforms raw renewable energy data into meaningful business insights that can support better operational and business decisions.
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Analyze total renewable energy generation.
 - Compare Solar, Wind, and Hydro energy performance.
@@ -23,7 +23,7 @@ Using Python, MySQL, Power BI, and Streamlit, the project transforms raw renewab
 - Build an interactive Power BI dashboard.
 - Develop a simple Streamlit application for exploring energy records.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -36,7 +36,7 @@ Using Python, MySQL, Power BI, and Streamlit, the project transforms raw renewab
 | Power BI | Interactive dashboard and business visualization |
 | Streamlit | Interactive energy data explorer |
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The project uses a renewable energy dataset concept containing **50,000+ energy generation and operational records**.
 
@@ -52,7 +52,7 @@ The dataset includes information about:
 | Cost | Operating cost, maintenance cost, and revenue |
 | Performance | Efficiency and availability percentage |
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. Load the raw renewable energy dataset.
 2. Perform data cleaning and preprocessing using Python.
@@ -67,7 +67,7 @@ The dataset includes information about:
 11. Build a simple Streamlit data explorer.
 12. Validate results and prepare business insights.
 
-## 🐍 Python Analysis
+##  Python Analysis
 
 Python is used for data cleaning, exploratory data analysis, and performance analysis.
 
@@ -89,7 +89,7 @@ Python is used for data cleaning, exploratory data analysis, and performance ana
 - Downtime and maintenance analysis
 - Operating cost and revenue analysis
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 The following business metrics are analyzed:
 
@@ -104,7 +104,7 @@ The following business metrics are analyzed:
 - Maintenance Cost per MWh
 - Plant Performance Score
 
-## 🗄️ MySQL Analysis
+##  MySQL Analysis
 
 The MySQL database is named:
 
@@ -191,7 +191,7 @@ The dashboard is organized into five analytical pages:
 - Revenue vs energy generation
 - Monthly cost and revenue trends
 
-## 🌐 Streamlit Data Explorer
+##  Streamlit Data Explorer
 
 A simple Streamlit application is developed to provide interactive access to renewable energy records.
 
@@ -208,7 +208,7 @@ A simple Streamlit application is developed to provide interactive access to ren
 
 **Note:** Power BI is used for the main dashboard. Streamlit is only used as a simple interactive data explorer.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Renewable_Energy_Performance_Analytics/
@@ -237,7 +237,7 @@ Renewable_Energy_Performance_Analytics/
 └── README.md
 ```
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -263,7 +263,7 @@ pip install pandas numpy matplotlib seaborn streamlit
 streamlit run streamlit_app/app.py
 ```
 
-## 💡 Expected Business Insights
+##  Expected Business Insights
 
 This project aims to identify:
 
@@ -276,13 +276,13 @@ This project aims to identify:
 - Revenue trends across energy types.
 - Unusual energy generation patterns.
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 The project demonstrates an end-to-end Data Analyst workflow, from raw data cleaning and exploratory analysis to SQL-based analysis, interactive dashboard development, and business insight generation.
 
 It showcases practical skills in **Python, SQL, data visualization, dashboard development, and business analytics** within the renewable energy domain.
 
-## 👩‍💻 Project Contributors
+##  Project Contributors
 
 - Riya
 - Kunika
